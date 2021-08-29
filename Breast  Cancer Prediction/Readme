@@ -1,0 +1,20 @@
+Required Modules to Run this project
+1) Numpy. #pip install numpy
+2) Matplotlib #pip install matplotlib
+3) Pandas. #pip install pandas
+4) Seaborn #pip install seaborn. #import seaborn as sns
+5)Plotly #pip install plotly. #import plotly.express as px
+
+
+Machine Learning Modules
+1) Logisitic Regression #from sklearn.linear_model import
+LogisticRegression
+2)Gaussian NB. #from sklearn.naive_bayes import
+GaussianNB
+3)Decision Tree. #from sklearn.tree import
+DecisionTreeClassifier
+To plot Tree use this code- from sklearn.tree import plot_tree
+4)Random Forest Classifier. #from sklearn.ensemble import
+RandomForestClassifier
+5)KNN. #from sklearn.neighbors import KNeighborsClassifier
+6) SVM #from sklearn.svm import SVC
